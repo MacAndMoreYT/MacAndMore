@@ -1,4 +1,4 @@
-<a href="https://git.ts13.de/puplic/macandmore/-/raw/master/Logo.png?inline=false"><img src="https://git.ts13.de/puplic/macandmore/-/raw/master/Logo.png?inline=false" width="150" title="MacAndMore - Logo" alt="MacAndMore - Logo"></a>
+<a href="https://raw.githubusercontent.com/MacAndMoreYT/MacAndMore/master/Logo.png" width="150" title="MacAndMore - Logo" alt="MacAndMore - Logo"></a>
 
 # MacAndMore - YouTube und Linux Zeug
 
