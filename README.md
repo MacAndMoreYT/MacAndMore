@@ -1,4 +1,4 @@
-<a href="https://raw.githubusercontent.com/MacAndMoreYT/MacAndMore/master/Logo.png" width="150" title="MacAndMore - Logo" alt="MacAndMore - Logo"></a>
+<a href="https://raw.githubusercontent.com/MacAndMoreYT/MacAndMore/master/Logo.png"><img src="https://raw.githubusercontent.com/MacAndMoreYT/MacAndMore/master/Logo.png" width="150" title="MacAndMore - Logo" alt="MacAndMore - Logo"></a>
 
 # MacAndMore - YouTube und Linux Zeug
 
@@ -20,4 +20,3 @@ Wenn du Anregungen oder wünsche hast bin ich immer bereit auf diese einzugehen.
 - [HandBrake CLI Skript](https://www.google.com)
 - [Clean My Files](https://www.google.com)
 - [Youtube DL GUI](https://www.google.com)
-
