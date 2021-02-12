@@ -17,7 +17,7 @@ mknod -m 666 /dev/net/tun c 10 200
 
 ### 1. Install via Script
 ```shell
-wget https://git.ts13.myds.me/puplic/lxc/-/raw/master/Pritunl%20-%20VPN/install.sh && bash install.sh
+wget https://raw.githubusercontent.com/MacAndMoreYT/MacAndMore/master/Pritunl-VPN/install.sh && bash install.sh
 ```
 
 ### 2. Key und Passwort erhalten
